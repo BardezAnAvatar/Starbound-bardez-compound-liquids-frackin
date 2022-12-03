@@ -1,0 +1,11 @@
+{
+  "itemName" : "liquid-oxygen",
+  "rarity" : "uncommon",
+  "category" : "liquid",
+  "inventoryIcon" : "liquid-oxygen.png",
+  "shortdescription" : "Liquid Oxygen",
+  "description" : "A measure of liquid oxygen (^gray;O^reset;). Strong oxidizer.\n^yellow;Centrifugable^reset;.\n^blue;+^white;3 ^blue;Fuel^reset;",
+  "liquid" : "liquid-oxygen",
+  "price": 20,
+  "fuel": 3
+}
