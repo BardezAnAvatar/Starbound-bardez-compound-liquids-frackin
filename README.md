@@ -17,7 +17,7 @@ This mod does the following:
     - Yields Lead, Phosphorus, Oxygen
   - [X] Liquid Silicon
     - Yields Sand, Silicon, Oxygen
-  - [ ] Liquid Sulphur
+  - [X] Liquid Sulphur
     - Yields Sulphur, Hydrogen, Silver Ore (rare)
   - [ ] Liquid Oxygen
     - Yields O2, Water, Cryonic Extract
