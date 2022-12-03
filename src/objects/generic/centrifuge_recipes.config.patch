@@ -29,5 +29,14 @@
       "fu_hydrogen": ["uncommon", 1],
       "sulphur": ["normal", 1]
     }
+  },
+  {
+    "op" : "add",
+    "path" : "/itemMapLiquids/molten-oxygen",
+    "value" : {
+      "cryonicextract": ["rare", 1],
+      "liquidwater": ["uncommon", 1],
+      "fu_oxygen": ["normal", 1]
+    }
   }
 ]
