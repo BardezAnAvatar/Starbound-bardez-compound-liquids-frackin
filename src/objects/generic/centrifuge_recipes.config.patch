@@ -11,5 +11,14 @@
       "phosphorus": ["uncommon", 1],
       "load": ["normal", 1]
     }
+  },
+  {
+    "op" : "add",
+    "path" : "/itemMapLiquids/molten-silicon",
+    "value" : {
+      "fu_oxygen": ["rare", 1],
+      "sand2": ["uncommon", 1],
+      "ff_silicon": ["normal", 1]
+    }
   }
 ]
