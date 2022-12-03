@@ -35,7 +35,7 @@ This mod does the following:
   - [X] Liquid Sulphur
   - [X] Liquid Oxygen
 - TODO: Things I am not yet certain whether to do
-  - Liquids I am debating
+  - Liquids I am considering
     - [ ] Liquid Magnesite
     - [ ] Liquid Mascagnite
     - [ ] Liquid Methynol
