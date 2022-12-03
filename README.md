@@ -15,7 +15,7 @@ This mod does the following:
 - [ ] Adds centrifuge recipes to Frackin' Universe centrifuges for these liquids
   - [X] Liquid Lead
     - Yields Lead, Phosphorus, Oxygen
-  - [ ] Liquid Silicon
+  - [X] Liquid Silicon
     - Yields Sand, Silicon, Oxygen
   - [ ] Liquid Sulphur
     - Yields Sulphur, Hydrogen, Silver Ore (rare)
