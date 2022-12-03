@@ -13,7 +13,7 @@ This mod does the following:
     - [X] Liquid Sulphur
     - [X] Liquid Oxygen
 - [ ] Adds centrifuge recipes to Frackin' Universe centrifuges for these liquids
-  - [ ] Liquid Lead
+  - [X] Liquid Lead
     - Yields Lead, Phosphorus, Oxygen
   - [ ] Liquid Silicon
     - Yields Sand, Silicon, Oxygen
