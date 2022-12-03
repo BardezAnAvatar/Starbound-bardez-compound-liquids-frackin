@@ -39,5 +39,3 @@ This mod does the following:
     - [ ] Liquid Magnesite
     - [ ] Liquid Mascagnite
     - [ ] Liquid Methynol
-    - [ ] Liquid Tritium
-    - [ ] Liquid Dark Matter
