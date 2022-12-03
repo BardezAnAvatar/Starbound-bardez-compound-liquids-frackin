@@ -22,7 +22,14 @@ This mod does the following:
   - [X] Liquid Oxygen
     - Yields O2, Water, Cryonic Extract
 - [ ] Adds conversion recipes to the Atomic Furnace for these liquids
-    - TODO: Add liquid sulphur recipe for sulphuric acid
+  - [X] Primitive Furnace
+    - [X] Lead -- it was smeltable early in civilization
+  - [X] Industrial Furnace
+    - [X] Silicon
+    - [X] Sulphur
+  - [X] Chemlab
+    - [X] Liquid Oxygen
+  - TODO: Add liquid sulphur recipe for sulphuric acid
 - [ ] Adds research recipes to the research system for these liquids
   - [ ] Non-metallurgy Things
     - [ ] Liquid Lead
