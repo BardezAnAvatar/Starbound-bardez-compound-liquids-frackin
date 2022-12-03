@@ -6,7 +6,7 @@ This repo is a mod for [Starbound](https://playstarbound.com/), based on top of 
 
 This mod does the following:
 
-- [ ] Adds in even more liquids based on Frackin' Universe ores/materials:
+- [X] Adds in even more liquids based on Frackin' Universe ores/materials:
   - [X] Non-metallurgy Things
     - [X] Liquid Lead
     - [X] Liquid Silicon
@@ -20,7 +20,7 @@ This mod does the following:
   - [ ] Liquid Sulphur
     - Yields Sulphur, Hydrogen, Silver Ore (rare)
   - [ ] Liquid Oxygen
-    - Yields O2, Water, 
+    - Yields O2, Water, Cryonic Extract
 - [ ] Adds conversion recipes to the Atomic Furnace for these liquids
     - TODO: Add liquid sulphur recipe for sulphuric acid
 - [ ] Adds research recipes to the research system for these liquids
