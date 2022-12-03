@@ -16,16 +16,82 @@
     "path" : "/researchTree/fu_geology/metals_tier1/children/-",
     "value" : "liquid_lead"
   },
+  //industrial smelting
+  {
+    "op" : "add",
+    "path" : "/researchTree/fu_geology/industrial_smelting",
+    "value" : {
+      "icon" : "/objects/crafting/upgradeablecraftingobjects/craftingfurnace/craftingfurnace2icon.png",
+      "children" : [ "liquid_silicon", "liquid_sulphur" ],
+      "position" : [170, -40],
+      "price" : [["fuscienceresource", 2800]],
+      "unlocks" : [ ]
+    }
+  },
+  //liquid silicon
+  {
+    "op" : "add",
+    "path" : "/researchTree/fu_geology/liquid_silicon",
+    "value" : {
+      "icon" : "/items/liquids/molten-silicon.png",
+      "children" : [ ],
+      "position" : [140, -80],
+      "price" : [["fuscienceresource", 800], ["silicon", 5]],
+      "unlocks" : [ "molten-silicon" ]
+    }
+  },
+  //liquid sulphur
+  {
+    "op" : "add",
+    "path" : "/researchTree/fu_geology/liquid_sulphur",
+    "value" : {
+      "icon" : "/items/liquids/molten-sulphur.png",
+      "children" : [ ],
+      "position" : [200, -80],
+      "price" : [["fuscienceresource", 800], ["sulphur", 5]],
+      "unlocks" : [ "molten-sulphur" ]
+    }
+  },
   //strings
   {
     "op" : "add",
     "path" : "/strings/research/liquid_lead",
     "value" : [ "Molten lead", "^orange;Tier 4^reset;\n\n^cyan;Molten lead^reset; is lead (^gray;Pb^reset;), heated to its melting point: 600.61 K (327.46 C) under standard pressure. Highly dense. Toxic, even in small amounts. Requires a ^orange;Primitive Furnace^reset; to smelt." ]
   },
+  {
+    "op" : "add",
+    "path" : "/strings/research/industrial_smelting",
+    "value" : [ "Industrial Smelting", "^orange;Tier 3^reset;\n\nLearn to work with the extreme temperatures provided by the ^orange;Industrial Furnace^reset;, setting you on the path to smelt substances into molten materials!" ]
+  },
+  {
+    "op" : "add",
+    "path" : "/strings/research/liquid_silicon",
+    "value" : [ "Molten silicon", "^orange;Tier 3^reset;\n\n^cyan;Molten silicon^reset; is silicon (^gray;Si^reset;), heated to its melting point: 1687 K (1414 C) under standard pressure.\n\nSilicon is an essential element in biology. Often used in waterproofing treatments. Hugely useful applications in electronics as a semiconductor.\n\nRequires an ^orange;Industrial Furnace^reset; to smelt." ]
+  },
+  {
+    "op" : "add",
+    "path" : "/strings/research/liquid_sulphur",
+    "value" : [ "Molten sulphur", "^orange;Tier 3^reset;\n\n^cyan;Molten sulphur^reset; is sulphur (^gray;S^reset;), heated to its melting point: 388.36 K (115.21 C) under standard pressure.\n\nSulphur has applications in biology, chemistry, and even as energy storage.\n\nRequires an ^orange;Industrial Furnace^reset; to smelt." ]
+  },
   //acronyms
   {
     "op" : "add",
     "path" : "/acronyms/fu_geology/COMPLIQ01",
     "value" : "liquid_lead"
+  },
+  {
+    "op" : "add",
+    "path" : "/acronyms/fu_geology/COMPLIQFUR2",  //compound liquids furnace 2
+    "value" : "industrial_smelting"
+  },
+  {
+    "op" : "add",
+    "path" : "/acronyms/fu_geology/COMPLIQ02",
+    "value" : "liquid_silicon"
+  },
+  {
+    "op" : "add",
+    "path" : "/acronyms/fu_geology/COMPLIQ03",
+    "value" : "liquid_sulphur"
   }
 ]
