@@ -1,6 +1,6 @@
 {
   "itemName" : "molten-lead",
-  "rarity" : "Common",
+  "rarity" : "common",
   "category" : "liquid",
   "inventoryIcon" : "molten-lead.png",
   "shortdescription" : "Liquid Lead",

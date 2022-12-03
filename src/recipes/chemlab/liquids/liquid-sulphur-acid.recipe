@@ -1,0 +1,16 @@
+{
+  "input" : [
+    { "item" : "molten-sulphur", "count" : 1 },
+    { "item" : "fu_hydrogen", "count" : 2 },
+    { "item" : "fu_oxygen", "count" : 2 } //icon says O2, so 2x2 = 4
+  ],
+  "output" : {
+    "item" : "liquidsulphuricacid", //H2SO4
+    "count" : 1
+  },
+  "groups" : [
+    "chemlab2", "liquids", "all",
+    "nouncrafting", "norecycling" //both of these prevent un-crafting in other mods
+  ],
+  "duration" : 0.25
+}
