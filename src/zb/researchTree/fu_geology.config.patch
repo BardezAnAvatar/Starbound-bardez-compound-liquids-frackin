@@ -36,7 +36,7 @@
       "icon" : "/items/liquids/molten-silicon.png",
       "children" : [ ],
       "position" : [140, -80],
-      "price" : [["fuscienceresource", 800], ["silicon", 5]],
+      "price" : [["fuscienceresource", 800], ["ff_silicon", 5]],
       "unlocks" : [ "molten-silicon" ]
     }
   },
