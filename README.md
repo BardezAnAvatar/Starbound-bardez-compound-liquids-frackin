@@ -1,16 +1,16 @@
-# Starbound-bardez-compound-liquids-frackin
+# Starbound-bardez-reagent-liquids-frackin
 
 This repo is a mod for [Starbound](https://playstarbound.com/), based on top of the following mods:
-- [Frackin' Universe](https://steamcommunity.com/sharedfiles/filedetails/?id=729480149) 
+- [Frackin' Universe](https://steamcommunity.com/sharedfiles/filedetails/?id=729480149)
 - [mORE Liquids](https://steamcommunity.com/sharedfiles/filedetails/?id=1318339314) (for inspiration)
 
 This mod does the following:
 
-- [X] Adds in even more liquids based on Frackin' Universe ores/materials:
-  - [X] Liquid Lead
-  - [X] Liquid Silicon
-  - [X] Liquid Sulphur
-  - [X] Liquid Oxygen
+- [X] Adds in more liquids based on Frackin' Universe reagents:
+  - [X] Liquid Lead; Liquid ID 107
+  - [X] Liquid Silicon; Liquid ID 108
+  - [X] Liquid Sulphur; Liquid ID 109
+  - [X] Liquid Oxygen; Liquid ID 112
 - [X] Adds centrifuge recipes to Frackin' Universe centrifuges for these liquids
   - [X] Liquid Lead
     - Yields Lead, Phosphorus, Oxygen
@@ -35,9 +35,7 @@ This mod does the following:
   - [X] Liquid Sulphur
   - [X] Liquid Oxygen
 - TODO: Things I am not yet certain whether to do
-  - Liquids I am debating
+  - Liquids I am considering
     - [ ] Liquid Magnesite
     - [ ] Liquid Mascagnite
     - [ ] Liquid Methynol
-    - [ ] Liquid Tritium
-    - [ ] Liquid Dark Matter
