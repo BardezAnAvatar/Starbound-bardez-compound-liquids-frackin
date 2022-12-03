@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "lead", "count" : 1 }
+  ],
+  "output" : { "item" : "molten-lead", "count" : 4 },
+  "duration" : 0.25,
+  "groups" : [ "craftingfurnace", "smelt"]
+}
