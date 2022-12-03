@@ -12,14 +12,14 @@ This mod does the following:
     - [X] Liquid Silicon
     - [X] Liquid Sulphur
     - [X] Liquid Oxygen
-- [ ] Adds centrifuge recipes to Frackin' Universe centrifuges for these liquids
+- [X] Adds centrifuge recipes to Frackin' Universe centrifuges for these liquids
   - [X] Liquid Lead
     - Yields Lead, Phosphorus, Oxygen
   - [X] Liquid Silicon
     - Yields Sand, Silicon, Oxygen
   - [X] Liquid Sulphur
     - Yields Sulphur, Hydrogen, Silver Ore (rare)
-  - [ ] Liquid Oxygen
+  - [X] Liquid Oxygen
     - Yields O2, Water, Cryonic Extract
 - [ ] Adds conversion recipes to the Atomic Furnace for these liquids
     - TODO: Add liquid sulphur recipe for sulphuric acid
