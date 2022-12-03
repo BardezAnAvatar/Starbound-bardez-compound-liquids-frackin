@@ -1,0 +1,31 @@
+[
+  //liquid lead
+  {
+    "op" : "add",
+    "path" : "/researchTree/fu_geology/liquid_lead",
+    "value" : {
+      "icon" : "/items/liquids/molten-lead.png",
+      "children" : [ ],
+      "position" : [-40, -40],
+      "price" : [["fuscienceresource", 400], ["lead", 5]],
+      "unlocks" : [ "molten-lead" ]
+    }
+  },
+  {
+    "op" : "add",
+    "path" : "/researchTree/fu_geology/metals_tier1/children/-",
+    "value" : "liquid_lead"
+  },
+  //strings
+  {
+    "op" : "add",
+    "path" : "/strings/research/liquid_lead",
+    "value" : [ "Molten lead", "^orange;Tier 4^reset;\n\n^cyan;Molten lead^reset; (^gray;Pb^reset;) is lead, heated to its melting point: 600.61 K (327.46 C) under standard pressure. Highly dense. Toxic, even in small amounts. Requires a ^orange;primitive furnace^reset; to smelt." ]
+  },
+  //acronyms
+  {
+    "op" : "add",
+    "path" : "/acronyms/fu_geology/COMPLIQ01",
+    "value" : "liquid_lead"
+  }
+]
