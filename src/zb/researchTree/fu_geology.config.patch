@@ -28,6 +28,11 @@
       "unlocks" : [ ]
     }
   },
+  {
+    "op" : "add",
+    "path" : "/researchTree/fu_geology/metals_tier3/children/-",
+    "value" : "industrial_smelting"
+  },
   //liquid silicon
   {
     "op" : "add",
