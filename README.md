@@ -7,10 +7,10 @@ This repo is a mod for [Starbound](https://playstarbound.com/), based on top of 
 This mod does the following:
 
 - [X] Adds in even more liquids based on Frackin' Universe ores/materials:
-  - [X] Liquid Lead
-  - [X] Liquid Silicon
-  - [X] Liquid Sulphur
-  - [X] Liquid Oxygen
+  - [X] Liquid Lead; Liquid ID 107
+  - [X] Liquid Silicon; Liquid ID 108
+  - [X] Liquid Sulphur; Liquid ID 109
+  - [X] Liquid Oxygen; Liquid ID 112
 - [X] Adds centrifuge recipes to Frackin' Universe centrifuges for these liquids
   - [X] Liquid Lead
     - Yields Lead, Phosphorus, Oxygen
