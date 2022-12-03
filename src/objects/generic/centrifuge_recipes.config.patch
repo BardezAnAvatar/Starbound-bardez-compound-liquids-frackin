@@ -20,5 +20,14 @@
       "sand2": ["uncommon", 1],
       "ff_silicon": ["normal", 1]
     }
+  },
+  {
+    "op" : "add",
+    "path" : "/itemMapLiquids/molten-sulphur",
+    "value" : {
+      "silverore": ["rare", 2],
+      "fu_hydrogen": ["uncommon", 1],
+      "sulphur": ["normal", 1]
+    }
   }
 ]
