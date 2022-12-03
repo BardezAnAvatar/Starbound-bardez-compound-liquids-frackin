@@ -32,7 +32,7 @@
   },
   {
     "op" : "add",
-    "path" : "/itemMapLiquids/molten-oxygen",
+    "path" : "/itemMapLiquids/liquid-oxygen",
     "value" : {
       "cryonicextract": ["rare", 1],
       "liquidwater": ["uncommon", 1],
