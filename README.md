@@ -1,7 +1,7 @@
 # Starbound-bardez-compound-liquids-frackin
 
 This repo is a mod for [Starbound](https://playstarbound.com/), based on top of the following mods:
-- [Frackin' Universe](https://steamcommunity.com/sharedfiles/filedetails/?id=729480149) 
+- [Frackin' Universe](https://steamcommunity.com/sharedfiles/filedetails/?id=729480149)
 - [mORE Liquids](https://steamcommunity.com/sharedfiles/filedetails/?id=1318339314) (for inspiration)
 
 This mod does the following:
