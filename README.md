@@ -12,50 +12,6 @@ This mod does the following:
        - [X] Liquid Silicon
        - [X] Liquid Sulphur
        - [X] Liquid Oxygen
-     - [ ] Inert Ores
-       - [ ] Tier 2.5
-         - [ ] Liquid Telebrium
-       - [ ] Tier 3.5
-         - [ ] Liquid Advanced Alloy
-         - [ ] Liquid Zerchesium
-         - [ ] Liquid Penumbrite
-       - [ ] Tier 4
-         - [ ] Liquid Trianglium
-         - [ ] Liquid Quietus
-         - [ ] Liquid Lasombrium
-       - [ ] Tier 5
-         - [ ] Liquid Effigium
-       - [ ] Tier 5.5
-         - [ ] Liquid Dense Alloy
-       - [ ] Tier 6
-         - [ ] Liquid Densinium
-         - [ ] Liquid Pyreite
-         - [ ] Liquid Isogen
-     - [ ] Radioactive Ores
-       - [ ] Tier 2
-         - [ ] Liquid Plutonium (Note: why is this before uranium??)
-       - [ ] Tier 3
-         - [ ] Liquid Uranium
-       - [ ] Tier 4
-         - [ ] Liquid Neptunium
-       - [ ] Tier 5
-         - [ ] Liquid Thorium
-     - [ ] Crystalworking
-       - [ ] Liquid Lunari
-       - [ ] Liquid Prism
-       - [ ] Liquid Xithricite
-     - [ ] Madness
-       - [ ] Liquid Nocxium
-       - [ ] Liquid Neutronium
-       - [ ] Liquid Anti-Neutronium
-     - Liquids I am debating
-       - [ ] Liquid Magnesite
-       - [ ] Liquid Mascagnite
-       - [ ] Liquid Methynol
-     - Things Not Done
-       - Cinnabar (simply yields mercury, already an FU liquid)
-       - Protocite (already has an FU liquid)
-       - Irradium (already has an FU liquid)
 
 - [ ] Adds centrifuge recipes to Frackin' Universe centrifuges for these liquids
   - [ ] Liquid Lead
@@ -66,27 +22,18 @@ This mod does the following:
     - Yields Sulphur, Hydrogen, Silver Ore (rare)
   - [ ] Liquid Oxygen
     - Yields O2, Water, 
-  - [ ] Liquid Telebrium
-  - [ ] Liquid Advanced Alloy
-  - [ ] Liquid Zerchesium
-  - [ ] Liquid Penumbrite
-  - [ ] Liquid Trianglium
-  - [ ] Liquid Quietus
-  - [ ] Liquid Lasombrium
-  - [ ] Liquid Effigium
-  - [ ] Liquid Dense Alloy
-  - [ ] Liquid Densinium
-  - [ ] Liquid Pyreite
-  - [ ] Liquid Isogen
-  - [ ] Liquid Plutonium
-  - [ ] Liquid Uranium
-  - [ ] Liquid Neptunium
-  - [ ] Liquid Thorium
-  - [ ] Liquid Lunari
-  - [ ] Liquid Prism
-  - [ ] Liquid Xithricite
-  - [ ] Liquid Nocxium
-  - [ ] Liquid Neutronium
-  - [ ] Liquid Anti-Neutronium
 - [ ] Adds conversion recipes to the Atomic Furnace for these liquids
     - TODO: Add liquid sulphur recipe for sulphuric acid
+- [ ] Adds research recipes to the research system for these liquids
+  - [ ] Non-metallurgy Things
+    - [ ] Liquid Lead
+    - [ ] Liquid Silicon
+    - [ ] Liquid Sulphur
+    - [ ] Liquid Oxygen
+- TODO: Things I am not yet certain whether to do
+  - Liquids I am debating
+    - [ ] Liquid Magnesite
+    - [ ] Liquid Mascagnite
+    - [ ] Liquid Methynol
+    - [ ] Liquid Tritium
+    - [ ] Liquid Dark Matter
