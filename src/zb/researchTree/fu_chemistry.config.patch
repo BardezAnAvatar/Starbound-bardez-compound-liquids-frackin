@@ -1,0 +1,31 @@
+[
+  //liquid oxygen
+  {
+    "op" : "add",
+    "path" : "/researchTree/fu_chemistry/liquid_oxygen",
+    "value" : {
+      "icon" : "/items/liquids/liquid-oxygen.png",
+      "children" : [ ],
+      "position" : [110, -60],
+      "price" : [["fuscienceresource", 2800], ["fu_oxygen", 10], ["cryonicextract", 5]],
+      "unlocks" : [ "liquid-oxygen" ]
+    }
+  },
+  {
+    "op" : "add",
+    "path" : "/researchTree/fu_chemistry/liquidcrafting2/children/-",
+    "value" : "liquid_oxygen"
+  },
+  //strings
+  {
+    "op" : "add",
+    "path" : "/strings/research/liquid_oxygen",
+    "value" : [ "Liquid Oxygen", "^orange;Tier 4^reset;\n\n^cyan;Liquid Oxygen^reset; (^gray;O^reset;) is the liquid form of molecular oxygen. It is cooled to its condensation point: 90 K (-183 C) under standard pressure. Has a pale blue color and is strongly paramagnetic. It is the most common cryogenic liquid oxidizer propellant for rocket fuel. Requires a ^orange;Chemistry Lab^reset;." ]
+  },
+  //acronyms
+  {
+    "op" : "add",
+    "path" : "/acronyms/fu_chemistry/COMPLIQ01",
+    "value" : "liquid_oxygen"
+  },
+]
