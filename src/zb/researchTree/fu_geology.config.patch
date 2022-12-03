@@ -61,7 +61,7 @@
   {
     "op" : "add",
     "path" : "/strings/research/liquid_lead",
-    "value" : [ "Molten lead", "^orange;Tier 4^reset;\n\n^cyan;Molten lead^reset; is lead (^gray;Pb^reset;), heated to its melting point: 600.61 K (327.46 C) under standard pressure. Highly dense. Toxic, even in small amounts. Requires a ^orange;Primitive Furnace^reset; to smelt." ]
+    "value" : [ "Molten lead", "^orange;Tier 1^reset;\n\n^cyan;Molten lead^reset; is lead (^gray;Pb^reset;), heated to its melting point: 600.61 K (327.46 C) under standard pressure. Highly dense. Toxic, even in small amounts. Requires a ^orange;Primitive Furnace^reset; to smelt." ]
   },
   {
     "op" : "add",
