@@ -29,10 +29,10 @@ This mod does the following:
   - [X] Chemlab
     - [X] Liquid Oxygen
     - [X] Add liquid sulphur recipe for sulphuric acid
-- [ ] Adds research recipes to the research system for these liquids
-  - [ ] Liquid Lead
-  - [ ] Liquid Silicon
-  - [ ] Liquid Sulphur
+- [X] Adds research recipes to the research system for these liquids
+  - [X] Liquid Lead
+  - [X] Liquid Silicon
+  - [X] Liquid Sulphur
   - [X] Liquid Oxygen
 - TODO: Things I am not yet certain whether to do
   - Liquids I am debating
