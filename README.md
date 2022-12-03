@@ -33,7 +33,7 @@ This mod does the following:
   - [ ] Liquid Lead
   - [ ] Liquid Silicon
   - [ ] Liquid Sulphur
-  - [ ] Liquid Oxygen
+  - [X] Liquid Oxygen
 - TODO: Things I am not yet certain whether to do
   - Liquids I am debating
     - [ ] Liquid Magnesite
