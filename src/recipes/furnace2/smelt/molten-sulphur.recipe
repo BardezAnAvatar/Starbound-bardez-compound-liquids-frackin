@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "sulphur", "count" : 1 }
+  ],
+  "output" : { "item" : "molten-sulphur", "count" : 4 },
+  "duration" : 0.25,
+  "groups" : [ "craftingfurnace2", "smelt"]
+}
