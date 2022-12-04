@@ -39,3 +39,6 @@ This mod does the following:
     - [ ] Liquid Magnesite
     - [ ] Liquid Mascagnite
     - [ ] Liquid Methynol
+    - [ ] Liquid Phosphorus
+    - [ ] Liquid Morphite
+    - [ ] Liquid CO2
