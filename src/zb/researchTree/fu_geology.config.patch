@@ -57,13 +57,25 @@
       "unlocks" : [ "molten-silicon" ]
     }
   },
+  //solid sulphur
+  {
+    "op" : "add",
+    "path" : "/researchTree/fu_geology/solid_sulphur",
+    "value" : {
+      "icon" : "/items/generic/crafting/sulphur.png",
+      "children" : [ ],
+      "position" : [200, -120],
+      "price" : [["fuscienceresource", 1000], ["molten-sulphur", 8], ["sulphur", 5]],
+      "unlocks" : [ "sulphur" ]
+    }
+  },
   //liquid sulphur
   {
     "op" : "add",
     "path" : "/researchTree/fu_geology/liquid_sulphur",
     "value" : {
       "icon" : "/items/liquids/molten-sulphur.png",
-      "children" : [ ],
+      "children" : [ "solid_sulphur" ],
       "position" : [200, -80],
       "price" : [["fuscienceresource", 800], ["sulphur", 5]],
       "unlocks" : [ "molten-sulphur" ]
@@ -95,11 +107,21 @@
     "path" : "/strings/research/liquid_sulphur",
     "value" : [ "Molten Sulphur", "^orange;Tier 3^reset;\n\n^cyan;Molten sulphur^reset; is sulphur (^gray;S^reset;), heated to its melting point: 388.36 K (115.21 C) under standard pressure.\n\nSulphur has applications in biology, chemistry, and even as energy storage.\n\nRequires an ^orange;Industrial Furnace^reset; to smelt." ]
   },
+  {
+    "op" : "add",
+    "path" : "/strings/research/solid_sulphur",
+    "value" : [ "Molten Sulphur", "^orange;Tier 3^reset;\n\n^cyan;Sulphur^reset; (^gray;S^reset;), cooled from molten liquid to its solid state.\n\nBright yellow. Typically forms crystalline molecules of 8 sulphur atoms.\n\nRequires an ^orange;Industrial Furnace^reset; to coalesce." ]
+  },
   //acronyms
   {
     "op" : "add",
     "path" : "/acronyms/fu_geology/COMPLIQSOL01",
     "value" : "solid_lead"
+  },
+  {
+    "op" : "add",
+    "path" : "/acronyms/fu_geology/COMPLIQSOL02",
+    "value" : "solid_sulphur"
   },
   {
     "op" : "add",
