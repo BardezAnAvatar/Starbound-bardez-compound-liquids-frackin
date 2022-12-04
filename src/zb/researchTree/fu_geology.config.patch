@@ -61,7 +61,7 @@
   {
     "op" : "add",
     "path" : "/strings/research/liquid_lead",
-    "value" : [ "Molten lead", "^orange;Tier 1^reset;\n\n^cyan;Molten lead^reset; is lead (^gray;Pb^reset;), heated to its melting point: 600.61 K (327.46 C) under standard pressure. Highly dense. Toxic, even in small amounts. Requires a ^orange;Primitive Furnace^reset; to smelt." ]
+    "value" : [ "Molten Lead", "^orange;Tier 1^reset;\n\n^cyan;Molten lead^reset; is lead (^gray;Pb^reset;), heated to its melting point: 600.61 K (327.46 C) under standard pressure. Highly dense. Toxic, even in small amounts. Requires a ^orange;Primitive Furnace^reset; to smelt." ]
   },
   {
     "op" : "add",
@@ -71,12 +71,12 @@
   {
     "op" : "add",
     "path" : "/strings/research/liquid_silicon",
-    "value" : [ "Molten silicon", "^orange;Tier 3^reset;\n\n^cyan;Molten silicon^reset; is silicon (^gray;Si^reset;), heated to its melting point: 1687 K (1414 C) under standard pressure.\n\nSilicon is an essential element in biology. Often used in waterproofing treatments. Hugely useful applications in electronics as a semiconductor.\n\nRequires an ^orange;Industrial Furnace^reset; to smelt." ]
+    "value" : [ "Molten Silicon", "^orange;Tier 3^reset;\n\n^cyan;Molten silicon^reset; is silicon (^gray;Si^reset;), heated to its melting point: 1687 K (1414 C) under standard pressure.\n\nSilicon is an essential element in biology. Often used in waterproofing treatments. Hugely useful applications in electronics as a semiconductor.\n\nRequires an ^orange;Industrial Furnace^reset; to smelt." ]
   },
   {
     "op" : "add",
     "path" : "/strings/research/liquid_sulphur",
-    "value" : [ "Molten sulphur", "^orange;Tier 3^reset;\n\n^cyan;Molten sulphur^reset; is sulphur (^gray;S^reset;), heated to its melting point: 388.36 K (115.21 C) under standard pressure.\n\nSulphur has applications in biology, chemistry, and even as energy storage.\n\nRequires an ^orange;Industrial Furnace^reset; to smelt." ]
+    "value" : [ "Molten Sulphur", "^orange;Tier 3^reset;\n\n^cyan;Molten sulphur^reset; is sulphur (^gray;S^reset;), heated to its melting point: 388.36 K (115.21 C) under standard pressure.\n\nSulphur has applications in biology, chemistry, and even as energy storage.\n\nRequires an ^orange;Industrial Furnace^reset; to smelt." ]
   },
   //acronyms
   {
