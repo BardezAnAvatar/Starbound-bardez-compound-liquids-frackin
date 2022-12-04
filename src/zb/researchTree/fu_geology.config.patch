@@ -1,11 +1,23 @@
 [
+  //solid lead
+  {
+    "op" : "add",
+    "path" : "/researchTree/fu_geology/lead_ore",
+    "value" : {
+      "icon" : "/items/generic/crafting/lead.png",
+      "children" : [ ],
+      "position" : [-40, -80],
+      "price" : [["fuscienceresource", 600], ["lead", 5], ["molten-lead", 8]],
+      "unlocks" : [ "lead" ]
+    }
+  },
   //liquid lead
   {
     "op" : "add",
     "path" : "/researchTree/fu_geology/liquid_lead",
     "value" : {
       "icon" : "/items/liquids/molten-lead.png",
-      "children" : [ ],
+      "children" : [ "lead_ore" ],
       "position" : [-40, -40],
       "price" : [["fuscienceresource", 400], ["lead", 5]],
       "unlocks" : [ "molten-lead" ]
@@ -79,6 +91,11 @@
     "value" : [ "Molten Sulphur", "^orange;Tier 3^reset;\n\n^cyan;Molten sulphur^reset; is sulphur (^gray;S^reset;), heated to its melting point: 388.36 K (115.21 C) under standard pressure.\n\nSulphur has applications in biology, chemistry, and even as energy storage.\n\nRequires an ^orange;Industrial Furnace^reset; to smelt." ]
   },
   //acronyms
+  {
+    "op" : "add",
+    "path" : "/acronyms/fu_geology/COMPLIQSOL01",
+    "value" : "lead_ore"
+  },
   {
     "op" : "add",
     "path" : "/acronyms/fu_geology/COMPLIQ01",
