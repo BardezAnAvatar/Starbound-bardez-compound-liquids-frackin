@@ -2,7 +2,7 @@
   //solid lead
   {
     "op" : "add",
-    "path" : "/researchTree/fu_geology/lead_ore",
+    "path" : "/researchTree/fu_geology/solid_lead",
     "value" : {
       "icon" : "/items/generic/crafting/lead.png",
       "children" : [ ],
@@ -17,7 +17,7 @@
     "path" : "/researchTree/fu_geology/liquid_lead",
     "value" : {
       "icon" : "/items/liquids/molten-lead.png",
-      "children" : [ "lead_ore" ],
+      "children" : [ "solid_lead" ],
       "position" : [-40, -40],
       "price" : [["fuscienceresource", 400], ["lead", 5]],
       "unlocks" : [ "molten-lead" ]
@@ -77,6 +77,11 @@
   },
   {
     "op" : "add",
+    "path" : "/strings/research/solid_lead",
+    "value" : [ "Lead", "^orange;Tier 1^reset;\n\n^cyan;Lead^reset; (^gray;Pb^reset;), cooled from molten to its solid state.\n\nShields well against radiation. Toxic, especially in children. Requires a ^orange;Primitive Furnace^reset; to coalesce." ]
+  },
+  {
+    "op" : "add",
     "path" : "/strings/research/industrial_smelting",
     "value" : [ "Industrial Smelting", "^orange;Tier 3^reset;\n\nLearn to work with the extreme temperatures provided by the ^orange;Industrial Furnace^reset;, setting you on the path to smelt substances into molten materials!" ]
   },
@@ -94,7 +99,7 @@
   {
     "op" : "add",
     "path" : "/acronyms/fu_geology/COMPLIQSOL01",
-    "value" : "lead_ore"
+    "value" : "solid_lead"
   },
   {
     "op" : "add",
