@@ -78,7 +78,7 @@
   {
     "op" : "add",
     "path" : "/strings/research/solid_lead",
-    "value" : [ "Lead", "^orange;Tier 1^reset;\n\n^cyan;Lead^reset; (^gray;Pb^reset;), cooled from molten to its solid state.\n\nShields well against radiation. Toxic, especially in children. Requires a ^orange;Primitive Furnace^reset; to coalesce." ]
+    "value" : [ "Lead", "^orange;Tier 1^reset;\n\n^cyan;Lead^reset; (^gray;Pb^reset;), cooled from molten liquid to its solid state.\n\nShields well against radiation. Toxic, especially in children. Requires a ^orange;Primitive Furnace^reset; to coalesce." ]
   },
   {
     "op" : "add",
