@@ -110,7 +110,7 @@
   {
     "op" : "add",
     "path" : "/strings/research/solid_sulphur",
-    "value" : [ "Molten Sulphur", "^orange;Tier 3^reset;\n\n^cyan;Sulphur^reset; (^gray;S^reset;), cooled from molten liquid to its solid state.\n\nBright yellow. Typically forms crystalline molecules of 8 sulphur atoms.\n\nRequires an ^orange;Industrial Furnace^reset; to coalesce." ]
+    "value" : [ "Sulphur", "^orange;Tier 3^reset;\n\n^cyan;Sulphur^reset; (^gray;S^reset;), cooled from molten liquid to its solid state.\n\nBright yellow. Typically forms crystalline molecules of 8 sulphur atoms.\n\nRequires an ^orange;Industrial Furnace^reset; to coalesce." ]
   },
   //acronyms
   {
