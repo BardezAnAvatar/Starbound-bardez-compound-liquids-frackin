@@ -52,7 +52,7 @@
     "value" : {
       "icon" : "/items/liquids/molten-silicon.png",
       "children" : [ ],
-      "position" : [140, -80],
+      "position" : [160, -80],
       "price" : [["fuscienceresource", 800], ["ff_silicon", 5]],
       "unlocks" : [ "molten-silicon" ]
     }
@@ -64,7 +64,7 @@
     "value" : {
       "icon" : "/items/generic/crafting/sulphur.png",
       "children" : [ ],
-      "position" : [200, -120],
+      "position" : [180, -120],
       "price" : [["fuscienceresource", 1000], ["molten-sulphur", 8], ["sulphur", 5]],
       "unlocks" : [ "sulphur" ]
     }
@@ -76,7 +76,7 @@
     "value" : {
       "icon" : "/items/liquids/molten-sulphur.png",
       "children" : [ "solid_sulphur" ],
-      "position" : [200, -80],
+      "position" : [180, -80],
       "price" : [["fuscienceresource", 800], ["sulphur", 5]],
       "unlocks" : [ "molten-sulphur" ]
     }
